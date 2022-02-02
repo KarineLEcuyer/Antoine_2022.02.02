@@ -1,6 +1,4 @@
-# Antoine_2022.02.02
-
-Je m'appelle Antoine Haddad,
+# Antoine Haddad
 
 
 
